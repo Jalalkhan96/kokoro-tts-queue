@@ -1,10 +1,11 @@
 {
   "id": "wa-72305774440506-mvkc6065",
   "status": "done",
-  "audio_url": "https://muse.ai/files/1307736319092529/1109068941820573/q25jsjj33u7ky5boyuukbhs4/wa-72305774440506-mvkc6065.ogg",
-  "voice": "af_heart",
+  "audio_url": "https://muse.ai/files/1307736319092529/1635747401293193/6ot3xtjy1auwg33dqu0srq42/request-voice-hm_omega-hindi.ogg",
+  "voice": "hm_omega",
   "format": "ogg",
-  "duration_sec": 45.6,
-  "expires_at": "2026-10-25T02:35:08+00:00",
-  "processed_at": "2026-10-23T02:13:41.597Z"
+  "duration_sec": 44.5,
+  "expires_at": "2026-10-25T02:36:19+00:00",
+  "processed_at": "2026-10-23T02:13:41.597Z",
+  "note": "voice corrected to hm_omega per request text prefix"
 }
