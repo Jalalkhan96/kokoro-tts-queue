@@ -1,11 +1,11 @@
 {
   "id": "wa-72305774440506-mvkc6065",
   "status": "done",
-  "audio_url": "https://muse.ai/files/1307736319092529/1635747401293193/6ot3xtjy1auwg33dqu0srq42/request-voice-hm_omega-hindi.ogg",
+  "audio_url": "https://muse.ai/files/1307736319092529/28224265820584957/srjc7ow8wm6zg89htafjfy8d/request-voice-hm_omega-hindi.ogg",
   "voice": "hm_omega",
   "format": "ogg",
   "duration_sec": 44.5,
-  "expires_at": "2026-10-25T02:36:19+00:00",
+  "expires_at": "2026-10-25T02:59:39+00:00",
   "processed_at": "2026-10-23T02:13:41.597Z",
-  "note": "voice corrected to hm_omega per request text prefix"
+  "note": "Voice corrected to hm_omega per the request text prefix (hm-omega). The watcher had committed af_heart because the plugin could not parse the hyphenated prefix; plugin parseArgs is now fixed."
 }
